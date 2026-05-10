@@ -52,7 +52,7 @@ const categories: { value: WishCategory; label: string }[] = [
   { value: "Development", label: "Development" },
   { value: "Design", label: "Design" },
   { value: "Translation", label: "Translation" },
-  { value: "Writing", label: "Writing" },
+  
   { value: "Other", label: "Other" },
 ]
 
